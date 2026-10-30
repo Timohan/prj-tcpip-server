@@ -1,0 +1,4 @@
+libprj-tcpip-server.so
+*.o
+*.d
+.compile_flags
